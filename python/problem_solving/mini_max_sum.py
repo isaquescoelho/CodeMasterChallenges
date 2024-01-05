@@ -11,4 +11,3 @@ def miniMaxSum(arr):
     minimum_sum = sum(arr) - maximum_number
 
     print(f'{minimum_sum} {maximum_sum}')
-
